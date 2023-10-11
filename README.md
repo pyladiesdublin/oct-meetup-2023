@@ -26,6 +26,7 @@ We will update the talks here as we get them:
 
 # 🙏 Thanks 🙏 
 * [Phorest](https://www.phorest.com/) for hosting
+* [London Django Meetu](https://www.meetup.com/londondjango/)p for cupcakes
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
