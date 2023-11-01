@@ -7,7 +7,7 @@
 
   
 # Announcements
-Will publish after meetup
+* https://docs.google.com/presentation/d/e/2PACX-1vQmZZhsScJ43EbFvSWUxbX40j7sqx7BjlLy7faHmU_QDUcaiqNxySNl8fv4yC7mVWHvSsBkypSKry3A/pub?start=false&loop=false&delayms=3000
 
 Let's celebrate 10 years of PyLadies Dublin with CODING!
 Bring your own laptops and show your hobbies and side projects through lightning talks and show and tell.
