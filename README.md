@@ -18,6 +18,7 @@ We will update the talks here as we get them:
 ### Melinda Zhang - "Never too old to be a junior again"
 * Description: Talking about my career-changing journey at age 41
 * About Melinda: From a beautician to an Associate Software Engineer, how I made it through
+* Slides: https://github.com/pyladiesdublin/oct-meetup-2023/tree/main/Melinda%20Zhang
 
 ### Vicky Twomey-Lee - "Print your own adventure game"
 * Description: Show & Tell of Raspberry Pi and Thermal Printer project to print your own adventure game written in CircuitPython.
