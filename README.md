@@ -21,7 +21,8 @@ We will update the talks here as we get them:
 
 ### Vicky Twomey-Lee - "Print your own adventure game"
 * Description: Show & Tell of Raspberry Pi and Thermal Printer project to print your own adventure game written in CircuitPython.
-* About Vicky: Part of the PyLadies Dublin team. ☺️
+* About Vicky: Part of the PyLadies Dublin team.
+* Reference: See Vicky's write-up about her project here: https://dev.to/whykay/my-maker-project-print-your-own-adventure-game-38fa
 
 
 # 🙏 Thanks 🙏 
